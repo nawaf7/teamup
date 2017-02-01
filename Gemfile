@@ -14,8 +14,11 @@ gem 'devise'
 gem 'puma', '~> 3.0'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
+<<<<<<< HEAD
 # BootStrap
 gem 'bootstrap-sass', '~> 3.3.5'
+=======
+>>>>>>> 7667f7a717d10baa326169c319072a2863a61508
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .coffee assets and views
