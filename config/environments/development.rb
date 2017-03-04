@@ -36,11 +36,8 @@ Rails.application.configure do
 
   # Raise an error on page load if there are pending migrations.
   config.active_record.migration_error = :page_load
-<<<<<<< HEAD
   config.action_mailer.default_url_options = { host: 'localhost', port: 3000 }
-=======
 
->>>>>>> 7667f7a717d10baa326169c319072a2863a61508
   # Debug mode disables concatenation and preprocessing of assets.
   # This option may cause significant delays in view rendering with a large
   # number of complex assets.
